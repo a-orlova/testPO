@@ -127,3 +127,4 @@ button.grid(column=3, row=0)
 # запускаем главный цикл обработки событий
 if __name__ == "__main__":
     window.mainloop()
+
